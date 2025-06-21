@@ -1,0 +1,11 @@
+build/
+devel/
+install/
+*.pyc
+*.swp
+*.log
+*.bak
+venv/
+
+:Q
+
