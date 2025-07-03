@@ -1,0 +1,3 @@
+<launch>
+  <node name="sleepy_vision" pkg="sleepy_speech" type="sleepy_vision.py" output="screen"/>
+  

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>sleepy_speech</name>
+  <version>0.0.0</version>
+  <description>The sleepy_speech package</description>
+
+  <maintainer email="mustar@todo.todo">mustar</maintainer>
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <depend>rospy</depend>
+  <depend>std_msgs</depend>
+  <depend>sound_play</depend>
+  <depend>cv_bridge</depend>       <!-- Added for sleepy_vision node -->
+  <depend>sensor_msgs</depend>     <!-- Added for sleepy_vision node -->
+
+  <export>
+  </export>
+</package>
